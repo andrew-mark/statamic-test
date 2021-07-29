@@ -32,6 +32,8 @@ sections:
           localizable: true
       -
         import: test
+      -
+        import: page_builder
   sidebar:
     display: Sidebar
     fields:

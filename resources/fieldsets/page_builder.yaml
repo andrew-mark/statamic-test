@@ -1,0 +1,16 @@
+title: 'Page Builder'
+fields:
+  -
+    handle: page_builder
+    field:
+      collapse: false
+      sets:
+        module:
+          display: Module
+          fields:
+            -
+              import: media-text
+      display: 'Page Builder'
+      type: replicator
+      icon: replicator
+      listable: hidden
